@@ -1,0 +1,12 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "all",
+    "editor.tabCompletion": "on",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single"
+}
